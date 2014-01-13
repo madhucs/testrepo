@@ -8,6 +8,6 @@ def main():
     ext_ip = urllib2.urlopen('http://whatismyip.org').read()
     print ("Asset: %s " % fqn, "Checking in from IP#: %s " % ext_ip) 
     
-print 'hi'    
+print 'hi this is a update to check jenkin call'    
 if __name__ == '__main__':
    main ()
